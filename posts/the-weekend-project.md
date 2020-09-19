@@ -36,4 +36,4 @@ To add it to your README, you can use this:
 ```
 [![weekend list](https://the-weekend-project.vercel.app/api/count?user=YOUR_USERNAME)](https://the-weekend-project.vercel.app/api/list?user=YOUR_USERNAME)
 ```
-You might have noticed that this code includes a link to _yet another route_ (`/list`): this is a very raw (but convenient) HTML page displaying all your weekend projects. 😊
+You might have noticed that this code includes a link to _yet another route_ (`/list`): this is a very raw (but convenient) HTML page displaying all your weekend projects, accessible when you click on the image 😊
