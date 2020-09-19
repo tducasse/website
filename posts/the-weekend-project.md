@@ -1,10 +1,12 @@
 # The weekend project
 
-I've always wanted to build something _meaningful_. I tried to come up with an original idea, the "next big thing". But like many other developers, I would start a project, create a GitHub repo, write code for a day, and get bored!
+I've always wanted to build something _meaningful_. I tried to come up with an original idea, the "next big thing".
+
+But like many other developers, I would start a project, create a GitHub repo, write code for a day, and get bored!
 
 I think I've finally realised that what I care about is not _really_ building the next big thing, it's just _learning_ something new.
 
-But now, I have tons of open source GitHub repos that don't really go anywhere and don't really do anything more than a very small prototype.
+And now I have tons of open source GitHub repos that don't really go anywhere and don't really do anything more than a very small prototype.
 
 So I decided to make them _official_ "weekend projects", and here I am with this "weekend project" project. 😅
 

@@ -14,3 +14,6 @@ Maybe one day I'll add some CSS to make it pretty. 💄
 - you can follow me on [Twitter](https://twitter.com/tducasse)
 - I've written some articles in the past on [Medium](https://medium.com/@thibaud.ducasse) and [dev.to](https://dev.to/tducasse/)
 - I'm also on [LinkedIn](https://linkedin.com/in/tducasse)
+
+## Projects
+- read about [the weekend project](./posts/the-weekend-project)
