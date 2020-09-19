@@ -28,7 +28,7 @@ This will add the following badge to your README:
 
 [![weekend-project](https://the-weekend-project.vercel.app/api/svg)](https://tducasse.com/posts/the-weekend-project)
 
-Now, if you want to display the number of weekend projects you have, I've also written a route that returns a fancy SVG!
+Now, if you want to display the number of weekend projects you have, I've also written a route that returns a fancy SVG! 💄
 
 [![weekend list](https://the-weekend-project.vercel.app/api/count?user=tducasse)](https://the-weekend-project.vercel.app/api/list?user=tducasse)
 
@@ -36,3 +36,4 @@ To add it to your README, you can use this:
 ```
 [![weekend list](https://the-weekend-project.vercel.app/api/count?user=YOUR_USERNAME)](https://the-weekend-project.vercel.app/api/list?user=YOUR_USERNAME)
 ```
+You might have noticed that this code includes a link to _yet another route_ (`/list`): this is a very raw (but convenient) HTML page displaying all your weekend projects. 😊
