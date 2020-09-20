@@ -1,3 +1,8 @@
+---
+layout: base
+title: tducasse.com
+---
+
 # Hey 👋
 
 I know, this website is super simple 🙈
@@ -16,4 +21,5 @@ Maybe one day I'll add some CSS to make it pretty. 💄
 - I'm also on [LinkedIn](https://linkedin.com/in/tducasse)
 
 ## Projects
+
 - read about [the weekend project](./posts/the-weekend-project)
