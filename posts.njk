@@ -1,0 +1,12 @@
+---
+layout: base.njk
+title: Posts
+---
+{% for post in collections.post %}
+  <article>
+    <h1>
+      <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+    </h1>
+    {{ post.date.toString() }}
+  </article>
+{% endfor %}

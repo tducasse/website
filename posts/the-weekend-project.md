@@ -1,6 +1,8 @@
 ---
 layout: base
 title: the-weekend-project
+tags: ["post"]
+date: 2020-09-20
 ---
 
 # The weekend project
@@ -29,7 +31,7 @@ I want to emphasize on the fact that it doesn't _really_ mean "I wrote this over
 
 For each public GitHub repository that you consider a "weekend project", add this line in the readme:
 
-```
+```md
 [![weekend-project](https://the-weekend-project.vercel.app/api/svg)](https://tducasse.com/posts/the-weekend-project)
 ```
 
@@ -43,7 +45,7 @@ Now, if you want to display the number of weekend projects you have, I've also w
 
 To add it to your README, you can use this:
 
-```
+```md
 [![weekend list](https://the-weekend-project.vercel.app/api/count?user=YOUR_USERNAME)](https://the-weekend-project.vercel.app/api/list?user=YOUR_USERNAME)
 ```
 
