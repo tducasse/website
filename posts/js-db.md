@@ -3,7 +3,7 @@ layout: base
 title: js-db
 tags: ["post"]
 date: 2020-10-25
-description: "A very minimal JavaScript in memory database"
+excerpt: "A very minimal JavaScript in memory database"
 ---
 
 # Or how to keep server-side state without an actual DB...

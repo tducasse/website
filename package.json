@@ -19,7 +19,8 @@
   "homepage": "https://github.com/tducasse/website#readme",
   "dependencies": {
     "@11ty/eleventy": "^0.11.0",
-    "clean-css": "^4.2.3"
+    "clean-css": "^4.2.3",
+    "eleventy-plugin-seo": "^0.5.1"
   },
   "devDependencies": {
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1"

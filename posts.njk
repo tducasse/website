@@ -8,7 +8,7 @@ title: Posts
       <a href="{{ post.url | url }}">{{ post.data.title }}</a>
       <small>- {{ post.date.toLocaleDateString() }}</small>
     </h1>
-    <p>{{ post.data.description }}</p>
+    <p>{{ post.data.excerpt }}</p>
 
   </article>
 {% endfor %}
