@@ -8,5 +8,16 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPassthroughCopy("public");
-  eleventyConfig.addPlugin(pluginSEO, require("./_data/seo.json"));
+  eleventyConfig.addPlugin(pluginSEO, {
+    title: "tducasse.com",
+    description: "Ramblings and stuff",
+    url: "https://tducasse.com",
+    author: "Thibaud Ducasse",
+    twitter: "tducasse",
+    image: "/public/android-chrome-192x192.png",
+    options: {
+      titleStyle: "minimalistic",
+      imageWithBaseUrl: true,
+    },
+  });
 };
