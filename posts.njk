@@ -2,11 +2,13 @@
 layout: base.njk
 title: Posts
 ---
-{% for post in collections.post %}
+{% for post in collections.post | reverse %}
   <article>
     <h1>
       <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+      <small>- {{ post.date.toLocaleDateString() }}</small>
     </h1>
-    {{ post.date.toString() }}
+    <p>{{ post.data.description }}</p>
+
   </article>
 {% endfor %}

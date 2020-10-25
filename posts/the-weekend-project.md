@@ -3,6 +3,7 @@ layout: base
 title: the-weekend-project
 tags: ["post"]
 date: 2020-09-20
+description: 'The "weekend-project" project'
 ---
 
 # The weekend project

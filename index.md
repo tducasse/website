@@ -20,6 +20,7 @@ Maybe one day I'll add some CSS to make it pretty. 💄
 - I've written some articles in the past on [Medium](https://medium.com/@thibaud.ducasse) and [dev.to](https://dev.to/tducasse/)
 - I'm also on [LinkedIn](https://linkedin.com/in/tducasse)
 
-## Projects
+## Posts and projects
 
 - read about [the weekend project](./posts/the-weekend-project)
+- use my [JavaScript database](./posts/js-db)
