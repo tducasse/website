@@ -25,3 +25,6 @@ Maybe one day I'll add some CSS to make it pretty. 💄
 - read about [the weekend project](./posts/the-weekend-project)
 - use my [JavaScript database](./posts/js-db)
 - want to know more about my [editor journey](./posts/editor-journey)?
+- some of my games are [here](./posts/games)
+
+
