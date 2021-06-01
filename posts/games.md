@@ -14,6 +14,9 @@ excerpt: "A list of games I've built"
 # Prototypes and proof of concepts 
 Some games I just never finished 😬
 
-- a card game (think hearthsone/magic/yu-gi-oh) I'm currently working on with a friend, nowhere near done, and not open source _yet_
+- a card game (think hearthsone/magic/yu-gi-oh), multiplayer (peer to peer). Code [here](https://github.com/tducasse/poc-card-game), not deployed anywhere.
 - a turn-based multiplayer strategy game, with a server using websockets. Code [here](https://github.com/tducasse/poc-turn-based), app deployed [here](https://aldevs.gitlab.io/gamedev/projectv3/)
 - a very simple roguelite that really goes nowhere. Code [here](https://github.com/tducasse/poc-roguelite), app deployed [here](https://aldevs.gitlab.io/gamedev/projectv2/)
+
+# Finished games
+Sometimes I join [game jams](https://en.wikipedia.org/wiki/Game_jam), and I publish my games on [Itch.io](https://tducasse.itchio).
