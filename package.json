@@ -23,6 +23,6 @@
     "eleventy-plugin-seo": "^0.5.1"
   },
   "devDependencies": {
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1"
+    "@11ty/eleventy-plugin-syntaxhighlight": "4.0.0"
   }
 }
