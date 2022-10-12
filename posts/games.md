@@ -7,17 +7,10 @@ excerpt: "A list of games I've built"
 ---
 
 # Finished games
-Sometimes I join [game jams](https://en.wikipedia.org/wiki/Game_jam), and I publish my games on [Itch.io](https://tducasse.itchio).
+I've joined a few [game jams](https://en.wikipedia.org/wiki/Game_jam), and I published my games on [Itch.io](https://tducasse.itchio).
 
 # Game Dev related projects
 Find all of them on [GitHub](https://github.com/tducasse?tab=repositories&q=gamedev)
-
-# Prototypes and proof of concepts 
-Some games I just never finished 😬
-
-- a card game (think hearthsone/magic/yu-gi-oh), multiplayer (peer to peer). Code [here](https://github.com/tducasse/poc-card-game).
-- a turn-based multiplayer strategy game, with a server using websockets. Code [here](https://github.com/tducasse/poc-turn-based).
-- a very simple roguelite that really goes nowhere. Code [here](https://github.com/tducasse/poc-roguelite).
 
 # Single phone party games
 Games made quickly for when you want to have fun in a group 😄
