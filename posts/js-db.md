@@ -8,7 +8,7 @@ excerpt: "A very minimal JavaScript in memory database"
 
 # Or how to keep server-side state without an actual DB...
 
-So you're working on this side-project (perhaps even a [weekend-project](./posts/the-weekend-project)?), you deployed your frontend to [Netlify](https://www.netlify.com/) or something similarly straightforward, and now you're thinking about adding a backend?
+So you're working on this side-project, you deployed your frontend to [Netlify](https://www.netlify.com/) or something similarly straightforward, and now you're thinking about adding a backend?
 
 Unfortunately, while deploying a bunch of static files is super easy - and nowadays, very often free of charge - deploying a backend is a _little bit_ more involved. Most of the time I use something like [Heroku](https://www.heroku.com/), because it's very convenient, and follows the same "deploy-on-push" philosophy that's become standard lately.
 
