@@ -8,6 +8,7 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPassthroughCopy("public");
+  eleventyConfig.addPassthroughCopy("_redirects");
   eleventyConfig.addPlugin(pluginSEO, {
     title: "tducasse.com",
     description: "Ramblings and stuff",
