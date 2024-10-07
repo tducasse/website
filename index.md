@@ -5,14 +5,6 @@ title: tducasse.com
 
 # Hey 👋
 
-I know, this website is super simple 🙈
-
-But it's fast! ⚡️
-
-More seriously, I already do web dev all day, I'd rather play with something else in my free time!
-
-Maybe one day I'll add some CSS to make it pretty. 💄
-
 ## Here's a list of useful links 🔗
 
 - have a look at my profile and my projects on [GitHub](https://github.com/tducasse)
